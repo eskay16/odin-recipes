@@ -1,0 +1,28 @@
+
+body{
+    background-color: rgb(250, 232, 211);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+h1{
+    text-align: center;
+}
+img{
+    width: 400px;
+    height: auto;
+    display: block;
+    margin: 10px 5px;
+}
+span{
+    background-color: yellow;
+}
+h4{
+    width: 25%;
+    text-align: center;
+}
+p{
+    width: 50%;
+}
+li{
+    width: 50%;
+}
